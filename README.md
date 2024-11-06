@@ -10,7 +10,7 @@ This project aims to predict sales revenue and analyze purchasing patterns to su
 ### Project Workflow
 1. **Data Preprocessing**: The dataset includes details like InvoiceNo, StockCode, Quantity, InvoiceDate, and UnitPrice. Missing values are handled with forward/backward filling, and outliers are identified using IQR analysis.
 2. **Exploratory Data Analysis (EDA)**: Visualizations offer insights into data distribution, customer demographics, and product popularity.
-3. **Modeling**: Implemented Random Forest and Gradient Boosting Regressors to predict sales revenue. Evaluation metrics include RMSE and R² to measure model performance.
+3. **Modeling**: We implemented Random Forests and Gradient-Boosting Regressions to predict sales revenue. Evaluation metrics include RMSE and R² to measure model performance.
 4. **Results & Insights**: Provides recommendations on inventory adjustments and highlights key purchasing trends.
 
 ### Tech Stack
